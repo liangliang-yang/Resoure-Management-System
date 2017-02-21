@@ -10,7 +10,9 @@ The total project has been split into three parts. In the first part, we need to
 
 In the second phase, we need to process the EER diagram to Relational mapping, and also need to SQL Create Table statements to create your schema. The report for this phase is listed as phase_2_report.pdf
 
-In the last phae, we need to use WAMP stack, implement our system in MySQL and PHP. All implementation code for this part is in the file ERMS_SRC. Also to help understand the use of our system, I will put a link to my demo about the system.
+In the last phae, we need to use WAMP stack, implement our system in MySQL and PHP. All implementation code for this part is in the file ERMS_SRC. Also to help understand the use of our system, here is the link to a Youtube demo:
+
+demo link: https://youtu.be/iwKeL9oaD5Y
 
 ### Project team member
 
